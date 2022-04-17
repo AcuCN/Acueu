@@ -25,6 +25,13 @@
 
 <br/>
 
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/Nyx-Developments/DiscordRPC" title="DiscordRPC"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acueu-anka&repo=DiscordRPC&theme=gotham"></a><a align="right"</a>
+</p>
+<br>
+
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acueu&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acueu&theme=buefy&layout=compact" />
