@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Acueu.</h2>
+<h2> Hey there! I'm Acu.</h2>
 
 <h3> 🛠 &nbsp;Languages</h3>
 
